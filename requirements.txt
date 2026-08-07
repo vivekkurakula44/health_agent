@@ -1,0 +1,6 @@
+langgraph
+langdetect
+duckduckgo-search
+google-generativeai
+fastapi
+uvicorn
